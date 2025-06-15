@@ -44,5 +44,13 @@ Este projeto é uma **playlist de músicas** desenvolvida em **JavaScript puro**
 
 ---
 
-## 📂 Estrutura de Pastas
+## 🚀 Exemplo de Uso no Console do Navegador
+
+```javascript
+playlist.adicionarMusica("Because", "Double You", "3:55");
+playlist.tocarMusica("Because");
+playlist.pularMusica();
+playlist.embaralhar();
+playlist.mostrarPlaylist();
+
 
